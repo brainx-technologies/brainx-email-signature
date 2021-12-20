@@ -1,15 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="87" height="87" viewBox="0 0 87 87">
+<svg style="width: 24px; height: 24px; margin-left: -2px"
+    xmlns="http://www.w3.org/2000/svg" width="87" height="87" viewBox="0 0 87 87">
     <defs>
-        <style>.map-a,.map-c{fill:#fff;}.map-a{stroke:#707070;opacity:0;}.map-b{fill:#3aadf3;}.map-d{stroke:none;}.map-e{fill:none;}</style>
+        <style>
+            .map-a,
+            .map-c {
+                fill: #fff;
+            }
+
+            .map-a {
+                stroke: #707070;
+                opacity: 0;
+            }
+
+            .map-b {
+                fill: #3aadf3;
+            }
+
+            .map-d {
+                stroke: none;
+            }
+
+            .map-e {
+                fill: none;
+            }
+        </style>
     </defs>
     <g transform="translate(-1058 -767)">
         <g class="map-a" transform="translate(1058 767)">
-            <rect class="map-d" width="87" height="87"/>
-            <rect class="map-e" x="0.5" y="0.5" width="86" height="86"/>
+            <rect class="map-d" width="87" height="87" />
+            <rect class="map-e" x="0.5" y="0.5" width="86" height="86" />
         </g>
         <g transform="translate(2 10)">
-            <circle class="map-b" cx="34" cy="34" r="34" transform="translate(1066 767)"/>
-            <path class="map-c" d="M1100.1,779.456c-9.081,0-16.469,7.118-16.469,15.867,0,10.857,14.738,26.8,15.365,27.47a1.521,1.521,0,0,0,2.207,0c.628-.673,15.365-16.613,15.365-27.47C1116.565,786.574,1109.178,779.456,1100.1,779.456Zm0,23.849a7.988,7.988,0,1,1,8.286-7.983A8.148,8.148,0,0,1,1100.1,803.305Z"/>
+            <circle class="map-b" cx="34" cy="34" r="34" transform="translate(1066 767)" />
+            <path class="map-c" d="M1100.1,779.456c-9.081,0-16.469,7.118-16.469,15.867,0,10.857,14.738,26.8,15.365,27.47a1.521,1.521,0,0,0,2.207,0c.628-.673,15.365-16.613,15.365-27.47C1116.565,786.574,1109.178,779.456,1100.1,779.456Zm0,23.849a7.988,7.988,0,1,1,8.286-7.983A8.148,8.148,0,0,1,1100.1,803.305Z" />
         </g>
     </g>
 </svg>
